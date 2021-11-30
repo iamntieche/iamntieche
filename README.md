@@ -1,12 +1,13 @@
-# iamntieche
+
 # About me
 
 Hi! :wave:
-I'm Issofa Ntieche , i'am Teachnical Lead, Promotor of @nteinsoft,Full Stack Developer
+I'm Issofa Ntieche , i'am Teachnical Lead, Promotor of @nteinsoft.com and Full Stack Developer.
 
-iamntieche
 
-🌱 I am currently learning the Big data ecosystem, machine learning and DevOps.
+:book: I am currently learning the Big data ecosystem, machine learning and DevOps.
 
-💬 Ask me about Java,PHP, Python, Javascript, Dart, Clean Code,
+💬 Ask me about Java/JEE, PHP, Python, Javascript, Dart, Clean Code.
+
+:wink: loves to learn and share knowledge.
 

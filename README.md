@@ -1,2 +1,2 @@
-# iamntiece
+# iamntieche
 About me

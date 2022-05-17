@@ -3,7 +3,7 @@
 # About me
 
 Hi! :wave:
-I'm Issofa Ntieche , i'am Teachnical Lead and Full Stack Developer.
+I'm Issofa Ntieche Mfoum , i'am Teachnical Lead and Full Stack Developer.
 
 
 :book: I am currently learning the Big data ecosystem, machine learning and DevOps.
